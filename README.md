@@ -34,8 +34,3 @@ I'm focused on building practical projects in:
 - AI-powered workflows
 - API Integration
 - Data and Databases
-
-### 📫 Connect with me
-
-[LinkedIn](https://www.linkedin.com/in/pedro-cunha-b80836394/)
-
