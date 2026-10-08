@@ -6,7 +6,7 @@ I'm a Telecommunications and Computer Engineering graduate from ISEP, with pract
 
 I have worked with automation workflows, REST APIs, webhooks, JSON, databases, testing, monitoring and technical documentation.
 
-### 🔧 Technologies & Tools
+### Technologies & Tools
 
 - **Automation:** n8n, Make
 - **Integration:** REST APIs, Webhooks, JSON
@@ -16,7 +16,7 @@ I have worked with automation workflows, REST APIs, webhooks, JSON, databases, t
 - **AI:** Large Language Models (LLMs), AI Integration
 - **Tools:** Git, GitHub, Notion
 
-### 📚 Currently Learning
+### Currently Learning
 
 - Advanced workflow automation with Make
 - AI Agents and intelligent automation
@@ -25,7 +25,7 @@ I have worked with automation workflows, REST APIs, webhooks, JSON, databases, t
 - Artificial Intelligence and Generative AI
 - MongoDB
 
-### 🚀 Current Focus
+### Current Focus
 
 I'm focused on building practical projects in:
 
