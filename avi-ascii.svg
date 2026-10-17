@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="520" viewBox="0 0 620 520">
+<style>
+.mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace;white-space:pre}
+.line{fill:#CBD5E1;font-size:13px}
+.dim{fill:#64748B;font-size:12px}
+.cyan{fill:#22D3EE}
+</style>
+<rect width="620" height="520" rx="18" fill="#050914"/>
+<rect x="1" y="1" width="618" height="518" rx="17" fill="#0B1220" stroke="#22D3EE" stroke-opacity=".20"/>
+<circle cx="26" cy="24" r="5" fill="#FF5F57"/><circle cx="44" cy="24" r="5" fill="#FEBC2E"/><circle cx="62" cy="24" r="5" fill="#28C840"/>
+<text x="86" y="29" class="mono dim">pedro@github:~$ ./whoami.sh</text>
+
+<g class="line">
+<text x="40" y="95" class="mono cyan">██████╗  ██████╗</text>
+<text x="40" y="116" class="mono cyan">██╔══██╗██╔════╝</text>
+<text x="40" y="137" class="mono cyan">██████╔╝██║     </text>
+<text x="40" y="158" class="mono cyan">██╔═══╝ ██║     </text>
+<text x="40" y="179" class="mono cyan">██║     ╚██████╗</text>
+<text x="40" y="200" class="mono cyan">╚═╝      ╚═════╝</text>
+</g>
+
+<text x="40" y="250" class="mono line">Pedro Cunha</text>
+<text x="40" y="278" class="mono dim">Process Automation</text>
+<text x="40" y="300" class="mono dim">Systems Integration</text>
+<text x="40" y="322" class="mono dim">Data &amp; Applied AI</text>
+<line x1="40" y1="350" x2="580" y2="350" stroke="#22D3EE" stroke-opacity=".12"/>
+<text x="40" y="390" class="mono dim">portrait pipeline ready</text>
+<text x="40" y="414" class="mono dim">replace with photo-generated ASCII when desired</text>
+</svg>
