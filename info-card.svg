@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" height="300" viewBox="0 0 690 300">
+<style>
+.mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace}
+.key{fill:#22D3EE;font-weight:700}.value{fill:#CBD5E1}.muted{fill:#64748B}
+</style>
+<rect width="690" height="300" rx="18" fill="#050914"/>
+<rect x="1" y="1" width="688" height="298" rx="17" fill="#0B1220" stroke="#22D3EE" stroke-opacity=".20"/>
+<circle cx="26" cy="24" r="5" fill="#FF5F57"/><circle cx="44" cy="24" r="5" fill="#FEBC2E"/><circle cx="62" cy="24" r="5" fill="#28C840"/>
+<text x="86" y="29" class="mono muted" font-size="13">pedro@github:~$ neofetch</text>
+<line x1="20" y1="45" x2="670" y2="45" stroke="#22D3EE" stroke-opacity=".16"/>
+<g opacity="0" transform="translate(0 6)"><animate attributeName="opacity" from="0" to="1" dur=".28s" begin="0s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur=".28s" begin="0s" fill="freeze"/><text x="28" y="82" class="mono key" font-size="14">Now</text><text x="135" y="82" class="mono value" font-size="14">Process Automation · Systems Integration · Data &amp; AI</text></g>
+<g opacity="0" transform="translate(0 6)"><animate attributeName="opacity" from="0" to="1" dur=".28s" begin=".12s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur=".28s" begin=".12s" fill="freeze"/><text x="28" y="122" class="mono key" font-size="14">Education</text><text x="135" y="122" class="mono value" font-size="14">Telecommunications &amp; Informatics Engineering · ISEP</text></g>
+<g opacity="0" transform="translate(0 6)"><animate attributeName="opacity" from="0" to="1" dur=".28s" begin=".24s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur=".28s" begin=".24s" fill="freeze"/><text x="28" y="162" class="mono key" font-size="14">Stack</text><text x="135" y="162" class="mono value" font-size="14">Python · FastAPI · n8n · Make · PostgreSQL · Supabase</text></g>
+<g opacity="0" transform="translate(0 6)"><animate attributeName="opacity" from="0" to="1" dur=".28s" begin=".36s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur=".28s" begin=".36s" fill="freeze"/><text x="28" y="202" class="mono key" font-size="14">Focus</text><text x="135" y="202" class="mono value" font-size="14">REST APIs · Webhooks · LLM Integration · Automation</text></g>
+<g opacity="0" transform="translate(0 6)"><animate attributeName="opacity" from="0" to="1" dur=".28s" begin=".48s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur=".28s" begin=".48s" fill="freeze"/><text x="28" y="242" class="mono key" font-size="14">Featured</text><text x="135" y="242" class="mono value" font-size="14">InvoiceFlow AI · AI-powered invoice automation platform</text></g>
+<text x="28" y="278" class="mono muted" font-size="12">github.com/pedrocunha4</text>
+</svg>
