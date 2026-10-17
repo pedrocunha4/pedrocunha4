@@ -112,6 +112,14 @@ An end-to-end portfolio project combining PDF invoice processing, structured AI 
 
 </div>
 
+## Contribution snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/pedrocunha4/pedrocunha4/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+
+</div>
+
 ## Connect
 
 <p align="center">
