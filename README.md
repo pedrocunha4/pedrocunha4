@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/profile-banner.svg" alt="Pedro Cunha profile banner" width="100%" />
+
 <a href="https://readme-typing-svg.demolab.com">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Pedro+Cunha;Process+Automation+%7C+Systems+Integration+%7C+Data+%26+AI;Building+workflows%2C+APIs+and+AI-enabled+systems"
