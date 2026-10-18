@@ -231,25 +231,6 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:ped.cunha2204@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Gmail" />
-</a>
-<a href="https://www.linkedin.com/in/pedro-cunha-eti/">
-  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
-</a>
-<a href="https://github.com/pedrocunha4">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub" />
-</a>
-<a href="https://github.com/pedrocunha4?tab=repositories">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=A78BFA" alt="Portfolio" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 **Build systems that connect, automate and create measurable value.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:090B13&height=120&section=footer" alt="Footer" />
