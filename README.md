@@ -92,14 +92,14 @@ I enjoy building end-to-end solutions that connect **backend services, data laye
 
 ---
 
-## AI / ML Expertise
+## Applied AI & Automation
 
 | Domain | Proficiency | Details |
 |---|---|---|
 | **LLM Integration** | Practical Experience | Structured extraction, prompt design, API-based LLM integration and AI-assisted workflows |
-| **AI Automation** | Practical Experience | Orchestration with Make and n8n, APIs, webhooks, validation and fallback logic |
+| **AI Automation** | Practical Experience | Automation with Make and n8n, APIs, webhooks, validation and fallback logic |
 | **AI Agents** | Applied Learning | Agent-oriented automation concepts through Make Academy AI training |
-| **NLP / Structured Extraction** | Practical Experience | Extracting structured business data from invoice content in InvoiceFlow AI |
+| **Structured Extraction** | Practical Experience | Extracting structured business data from invoice content in InvoiceFlow AI |
 | **Context & Prompt Engineering** | Working Knowledge | Designing prompts, structured outputs and context for reliable AI workflow behavior |
 
 ---
