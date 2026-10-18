@@ -36,11 +36,11 @@
 
 ## About
 
-I'm a **Telecommunications and Informatics Engineering graduate from ISEP** focused on building software that connects systems, automates workflows and turns data into reliable operational processes.
+I'm a **Telecommunications and Informatics Engineering graduate from ISEP**, focused on **process automation, systems integration, backend development, data and applied AI**.
 
-My practical experience spans **process automation, systems integration, backend development, REST APIs, webhooks, databases, distributed systems, testing, monitoring and technical documentation**. I also work with **LLM-based solutions and AI-assisted workflows**, applying AI where it creates clear value inside real processes.
+I have practical experience with **automation workflows, REST APIs, webhooks, databases, distributed systems, testing and monitoring**. I also work with **LLM-based solutions and AI-assisted workflows**, integrating AI into real operational processes.
 
-I enjoy working end to end: from backend services and data layers to lightweight interfaces and cloud deployment. My approach is strongly engineering-oriented, with attention to **architecture, validation, security, observability, maintainability and user impact**.
+I enjoy building end-to-end solutions that connect **backend services, data layers, automation platforms and lightweight interfaces**, with particular attention to **reliability, validation, security and maintainability**.
 
 > **Open to:** Process Automation · Systems Integration · Junior Software Engineering · Data Engineering · Applied AI
 
