@@ -14,9 +14,6 @@
 
 <br><br>
 
-<a href="https://github.com/pedrocunha4?tab=repositories">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Portfolio" />
-</a>
 <a href="https://www.linkedin.com/in/pedro-cunha-eti/">
   <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
 </a>
@@ -29,7 +26,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=pedrocunha4&style=flat-square&color=7C3AED&label=Profile+Views" alt="Profile views" />
+<img src="https://api.visitorbadge.io/api/visitors?path=pedrocunha4.pedrocunha4&label=Profile%20Views&countColor=%237C3AED&labelColor=%23111827&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/pedrocunha4?style=flat-square&label=Followers&color=6D28D9" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/pedrocunha4/invoiceflow-ai?style=flat-square&label=InvoiceFlow%20Stars&color=4C1D95" alt="InvoiceFlow AI stars" />
 
