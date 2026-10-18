@@ -114,14 +114,14 @@ I enjoy building end-to-end solutions that connect **backend services, data laye
 | Area | Details |
 |---|---|
 | **Stack** | Python · FastAPI · Streamlit · Groq · Supabase · PostgreSQL · Make · GitHub Actions |
-| **Scale** | End-to-end workflow from PDF ingestion to AI extraction, validation, storage, human review and external automation |
-| **Performance** | Automated validation, duplicate detection, error handling and resilience for cloud backend cold starts |
-| **Security** | API-key authentication, environment-based secrets, private Supabase Storage and short-lived protected PDF access |
-| **Impact** | Demonstrates the integration of AI, backend engineering, data persistence, automation and cloud deployment in one system |
+| **Workflow** | PDF ingestion → AI extraction → validation → duplicate detection → private storage → human review → automation |
+| **Reliability** | Business-rule validation, duplicate detection, error handling and backend cold-start handling |
+| **Security** | API-key authentication, environment-based secrets, private Supabase Storage and temporary protected PDF access |
+| **Engineering** | Automated tests, code quality checks, CI with GitHub Actions and cloud deployment |
 | **Repository** | [github.com/pedrocunha4/invoiceflow-ai](https://github.com/pedrocunha4/invoiceflow-ai) |
 | **Live Demo** | [invoiceflow-ai-demo.streamlit.app](https://invoiceflow-ai-demo.streamlit.app) · Access code: `invoiceflow` |
 
-InvoiceFlow AI was built as a complete portfolio project rather than an isolated proof of concept. It combines **AI-assisted document processing, business-rule validation, secure document handling, human review, automation workflows, automated testing and CI** in a single deployed application.
+InvoiceFlow AI is an end-to-end portfolio project combining **AI-assisted document processing, backend engineering, data persistence, secure document handling, human review and workflow automation**.
 
 </details>
 
