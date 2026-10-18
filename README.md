@@ -202,7 +202,7 @@ InvoiceFlow AI was built as a complete portfolio project rather than an isolated
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedrocunha4&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&area_color=4C1D95&hide_border=false&border_color=312E81" alt="GitHub activity graph" />
+<img width="100%" src="./assets/contribution-activity.svg" alt="GitHub contribution activity" />
 
 </div>
 
