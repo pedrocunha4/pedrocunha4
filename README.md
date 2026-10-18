@@ -177,8 +177,8 @@ InvoiceFlow AI is an end-to-end portfolio project combining **AI-assisted docume
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pedrocunha4&show_icons=true&hide_border=false&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6&border_color=312E81&ring_color=8B5CF6" alt="Pedro Cunha GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=pedrocunha4&hide_border=false&background=0D1117&border=312E81&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Pedro Cunha GitHub streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pedrocunha4&show_icons=true&hide_border=false&card_width=495&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6&border_color=312E81&ring_color=8B5CF6" alt="Pedro Cunha GitHub stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=pedrocunha4&hide_border=false&card_width=495&card_height=195&background=0D1117&border=312E81&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Pedro Cunha GitHub streak" />
 
 <br>
 
