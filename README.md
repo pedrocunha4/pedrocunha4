@@ -18,10 +18,10 @@
   <img src="./assets/linkedin-badge.svg" alt="LinkedIn" />
 </a>
 <a href="mailto:ped.cunha2204@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" />
+  <img src="./assets/gmail-badge.svg" alt="Email" />
 </a>
 <a href="https://github.com/pedrocunha4">
-  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub" />
+  <img src="./assets/github-badge.svg" alt="GitHub" />
 </a>
 
 <br><br>
