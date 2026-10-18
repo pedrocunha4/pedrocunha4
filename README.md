@@ -51,40 +51,43 @@ I enjoy building end-to-end solutions that connect **backend services, data laye
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp" alt="Programming languages" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
 </p>
 
 ### Frontend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=A78BFA" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/React%20Native-111827?style=for-the-badge&logo=react&logoColor=A78BFA" alt="React Native" />
-  <img src="https://img.shields.io/badge/Android-111827?style=for-the-badge&logo=android&logoColor=A78BFA" alt="Android" />
+  <img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Android-111827?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android" />
 </p>
 
 ### Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,supabase" alt="Backend and databases" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge&logo=fastapi&logoColor=A78BFA" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Webhooks-111827?style=for-the-badge&logo=webhook&logoColor=A78BFA" alt="Webhooks" />
-  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=A78BFA" alt="SQL" />
+  <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Webhooks-111827?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="Webhooks" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux" alt="Cloud DevOps and tooling" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=A78BFA" alt="n8n" />
-  <img src="https://img.shields.io/badge/Make-111827?style=for-the-badge&logo=make&logoColor=A78BFA" alt="Make" />
-  <img src="https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=A78BFA" alt="Render" />
-  <img src="https://img.shields.io/badge/Notion-111827?style=for-the-badge&logo=notion&logoColor=A78BFA" alt="Notion" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
+  <img src="https://img.shields.io/badge/Make-111827?style=for-the-badge&logo=make&logoColor=6D00CC" alt="Make" />
+  <img src="https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=46E3B7" alt="Render" />
+  <img src="https://img.shields.io/badge/Notion-111827?style=for-the-badge&logo=notion&logoColor=FFFFFF" alt="Notion" />
 </p>
 
 ---
