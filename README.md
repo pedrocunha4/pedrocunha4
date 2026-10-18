@@ -138,13 +138,13 @@ InvoiceFlow AI is an end-to-end portfolio project combining **AI-assisted docume
 - Implemented business logic, data transformation and validation/fallback mechanisms.
 - Tested, monitored and optimized automation workflows and integration solutions.
 
-<p>
-  <img src="https://img.shields.io/badge/n8n-312E81?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/REST%20APIs-4C1D95?style=flat-square" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Webhooks-5B21B6?style=flat-square" alt="Webhooks" />
-  <img src="https://img.shields.io/badge/LLMs-6D28D9?style=flat-square" alt="LLMs" />
-  <img src="https://img.shields.io/badge/System%20Integration-7C3AED?style=flat-square" alt="System Integration" />
-  <img src="https://img.shields.io/badge/Testing-8B5CF6?style=flat-square" alt="Testing" />
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
+  <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Webhooks-111827?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="Webhooks" />
+  <img src="https://img.shields.io/badge/LLM_Integration-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="LLM Integration" />
+  <img src="https://img.shields.io/badge/Systems_Integration-111827?style=for-the-badge&logo=icloud&logoColor=A78BFA" alt="Systems Integration" />
+  <img src="https://img.shields.io/badge/Testing-111827?style=for-the-badge&logo=pytest&logoColor=0A9EDC" alt="Testing" />
 </p>
 
 ---
