@@ -163,25 +163,13 @@ InvoiceFlow AI is an end-to-end portfolio project combining **AI-assisted docume
 ### Make Academy
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Make-Foundation-312E81?style=for-the-badge&logo=make&logoColor=white" alt="Make Foundation" />
-  <img src="https://img.shields.io/badge/Make-Basics-4C1D95?style=for-the-badge&logo=make&logoColor=white" alt="Make Basics" />
-  <img src="https://img.shields.io/badge/Make-Intermediate-5B21B6?style=for-the-badge&logo=make&logoColor=white" alt="Make Intermediate" />
-  <img src="https://img.shields.io/badge/Make-Advanced-6D28D9?style=for-the-badge&logo=make&logoColor=white" alt="Make Advanced" />
-  <img src="https://img.shields.io/badge/AI%20Automation-Explorer-7C3AED?style=for-the-badge&logo=make&logoColor=white" alt="AI Automation Explorer" />
-  <img src="https://img.shields.io/badge/AI%20Agent-Builder-8B5CF6?style=for-the-badge&logo=make&logoColor=white" alt="AI Agent Builder" />
+  <img src="https://img.shields.io/badge/-Make%20Foundation-312E81?style=for-the-badge&logo=make&logoColor=FFFFFF" alt="Make Foundation" />
+  <img src="https://img.shields.io/badge/-Make%20Basics-4C1D95?style=for-the-badge&logo=make&logoColor=FFFFFF" alt="Make Basics" />
+  <img src="https://img.shields.io/badge/-Make%20Intermediate-5B21B6?style=for-the-badge&logo=make&logoColor=FFFFFF" alt="Make Intermediate" />
+  <img src="https://img.shields.io/badge/-Make%20Advanced-6D28D9?style=for-the-badge&logo=make&logoColor=FFFFFF" alt="Make Advanced" />
+  <img src="https://img.shields.io/badge/-AI%20Automation%20Explorer-7C3AED?style=for-the-badge&logo=make&logoColor=FFFFFF" alt="AI Automation Explorer" />
+  <img src="https://img.shields.io/badge/-AI%20Agent%20Builder-8B5CF6?style=for-the-badge&logo=make&logoColor=FFFFFF" alt="AI Agent Builder" />
 </p>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://github.com/pedrocunha4">
-  <img src="https://img.shields.io/badge/GitHub-pedrocunha4-111827?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub coding profile" />
-</a>
-
-</div>
 
 ---
 
