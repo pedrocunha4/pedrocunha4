@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/profile-header.svg" alt="Pedro Cunha profile header" />
+<img width="100%" src="./assets/profile-header-clean.svg" alt="Pedro Cunha profile header" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Telecommunications+%26+Informatics+Engineering+Graduate;Building+automation%2C+integrations+and+data-driven+systems;Applying+AI+to+real-world+workflows" alt="Typing SVG" />
