@@ -149,10 +149,14 @@ InvoiceFlow AI is an end-to-end portfolio project combining **AI-assisted docume
 
 ---
 
-## Achievements
+## Key Highlights
 
-| Recognition | Details |
-|:---|:---|
+| Highlight | Details |
+|---|---|
+| **Engineering Degree** | Telecommunications and Informatics Engineering graduate from ISEP, 2026 |
+| **InvoiceFlow AI** | Designed, developed, tested and publicly deployed an end-to-end AI-powered invoice processing and automation platform |
+
+---|:---|
 | **Engineering Degree** | Completed the Telecommunications and Informatics Engineering degree at ISEP in 2026 |
 | **End-to-End Portfolio Project** | Designed, tested and publicly deployed InvoiceFlow AI as a complete automation and AI integration project |
 | **Automation & AI Learning Path** | Completed Make Academy training from core automation through AI automation and AI agent development |
