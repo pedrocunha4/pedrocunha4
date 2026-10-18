@@ -15,13 +15,13 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/pedro-cunha-eti/">
-  <img src="./assets/linkedin-badge.svg" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
 </a>
 <a href="mailto:ped.cunha2204@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
 </a>
 <a href="https://github.com/pedrocunha4">
-  <img src="./assets/github-badge.svg" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </a>
 
 <br><br>
