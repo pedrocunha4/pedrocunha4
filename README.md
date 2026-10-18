@@ -214,16 +214,11 @@ InvoiceFlow AI is an end-to-end portfolio project combining **AI-assisted docume
 learning:
   - Data Engineering
   - Applied AI
-  - AI Agents and reliable automation
+  - AI Agents & reliable automation
 
 building:
-  - Production-style automation and integration projects
-  - Backend services and API-driven workflows
-
-exploring:
-  - LLM integration
-  - Agentic workflows
-  - Data-intensive systems
+  - Automation & systems integration projects
+  - Backend services & API-driven workflows
 
 open_to:
   - Process Automation
@@ -233,8 +228,6 @@ open_to:
 ```
 
 ---
-
-## Connect
 
 <div align="center">
 
