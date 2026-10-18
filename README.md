@@ -18,7 +18,7 @@
   <img src="./assets/linkedin-badge.svg" alt="LinkedIn" />
 </a>
 <a href="mailto:ped.cunha2204@gmail.com">
-  <img src="./assets/gmail-badge.png" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
 </a>
 <a href="https://github.com/pedrocunha4">
   <img src="./assets/github-badge.svg" alt="GitHub" />
