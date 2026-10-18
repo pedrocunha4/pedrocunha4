@@ -15,7 +15,7 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/pedro-cunha-eti/">
-  <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
 </a>
 <a href="mailto:ped.cunha2204@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" />
